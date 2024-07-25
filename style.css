@@ -28,9 +28,3 @@ h2 {
 }
 
 
-.disq {
- display: flex;
- background: cornsilk;
- flex-direction: column;
- height: 500px; justify-content: flex-start;
-}
