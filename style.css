@@ -1,8 +1,7 @@
+body  {
 
-
-
-
-
+background-color: cornsilk;
+}
 
 
 h2 {
@@ -16,15 +15,54 @@ h2 {
  border: 1px solid white;
  border-radius: 4px;
  width: 30%;
- padding: 10px;
+ padding: 10px; 
  margin: 10px;
 }
 
 .container {
- display: flex;
- background: cornsilk;
- flex-direction: column;
- height: 500px; justify-content: flex-start;
+ 
+ 
+ 
+ height: 500px;
 }
 
+.imagee {
+ background: white;
+ border: 1px solid white;
+ border-radius: 4px;
+ width: 30%;
+
+ padding: 10px;
+ display:block; margin: auto auto auto auto;
+}
+
+
+
+p
+{  
+
+ font-family: monospace;
+
+} 
+
+.rechtop {
+ background: white;
+ border: 1px solid white;
+ border-radius: 4px;
+ width: 30%;
+ padding: 10px; 
+ margin: 10px;
+display:block; margin: auto auto auto auto;
+
+}
+
+
+.joor {
+ background: white;
+ border: 1px solid white;
+ border-radius: 300px;
+ width: 30%;
+ padding: 10px; 
+ margin: 10px;display:block; margin: auto auto auto auto;
+}
 
