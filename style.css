@@ -76,3 +76,8 @@ z-index: -200; text-align: center;
 
 
 }
+
+
+.public   { display: none;
+
+}
